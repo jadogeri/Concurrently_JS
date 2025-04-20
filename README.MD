@@ -1,6 +1,6 @@
 # **System Design Document (SDD)**
 
-## **Concurrently TS**
+## **Concurrently JS**
 
 **Version:** 1.1
 **Date:** April 19, 2025
