@@ -1,5 +1,3 @@
-# **System Design Document (SDD)**
-
 ## **Concurrently JS**
 
 **Version:** 1.1
